@@ -311,7 +311,7 @@ function About() {
   const cards = [
     { icon: GraduationCap, label: 'Education', value: 'B.Sc Computer Science', sub: 'Final Year' },
     { icon: MapPin, label: 'Location', value: 'India', sub: 'Remote friendly' },
-    { icon: Briefcase, label: 'Experience', value: '2+ years', sub: 'UI/UX · Frontend' },
+    { icon: Briefcase, label: 'Experience', value: '0 Years (Fresher)', sub: 'UI/UX · Frontend' },
     { icon: CheckCircle2, label: 'Availability', value: 'Open to Internships', sub: 'Available now' },
   ]
   return (
